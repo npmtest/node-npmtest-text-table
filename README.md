@@ -1,4 +1,7 @@
-# test coverage for  [text-table (v0.2.0)](https://github.com/substack/text-table)  [![npm package](https://img.shields.io/npm/v/npmtest-text-table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-text-table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-text-table.svg)](https://travis-ci.org/npmtest/node-npmtest-text-table)
+# npmtest-text-table
+
+#### basic test coverage for  [text-table (v0.2.0)](https://github.com/substack/text-table)  [![npm package](https://img.shields.io/npm/v/npmtest-text-table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-text-table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-text-table.svg)](https://travis-ci.org/npmtest/node-npmtest-text-table)
+
 #### borderless text tables with alignment
 
 [![NPM](https://nodei.co/npm/text-table.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/text-table)
@@ -89,7 +92,8 @@
             "ipad/6"
         ]
     },
-    "version": "0.2.0"
+    "version": "0.2.0",
+    "bin": {}
 }
 ```
 

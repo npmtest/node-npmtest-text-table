@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [text-table (v0.2.0)](https://github.com/substack/text-table) [![npm package](https://img.shields.io/npm/v/npmtest-text-table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-text-table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-text-table.svg)](https://travis-ci.org/npmtest/node-npmtest-text-table)",
+    "description": "#### basic test coverage for  [text-table (v0.2.0)](https://github.com/substack/text-table)  [![npm package](https://img.shields.io/npm/v/npmtest-text-table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-text-table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-text-table.svg)](https://travis-ci.org/npmtest/node-npmtest-text-table)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "text-table": "*",
@@ -36,5 +36,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
